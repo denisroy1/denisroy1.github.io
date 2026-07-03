@@ -1,9 +1,18 @@
 ---
-title: "About"
+title: "Denis Roy"
+about:
+  template: jolla
+  image: images/Dsamp2.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/denisroy1
 ---
 
-About this site
+## Education:
 
-```{r}
-1 + 1
-```
+BSc (Honours) | 1996, *Arts and Sciences*, Queen's University at Kingston
+
+MSc, 1999 | *Biology*, University of Windsor
+
+PhD, 2006 | *Biology*, University of Windsor
