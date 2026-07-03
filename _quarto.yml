@@ -8,6 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: PI
+      - href: courses.qmd
+        text: Courses
+      - href: opportunities.qmd
+        text: Opportunities
 
 format:
   html:
@@ -15,7 +21,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+
     
     
     

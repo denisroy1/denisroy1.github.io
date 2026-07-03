@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Denis Roy",
+    "objectID": "opportunities.html",
+    "href": "opportunities.html",
+    "title": "Opportunities",
     "section": "",
-    "text": "BSc (Honours) | 1996, Arts and Sciences, Queen’s University at Kingston\nMSc, 1999 | Biology, University of Windsor\nPhD, 2006 | Biology, University of Windsor"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Denis Roy",
-    "section": "",
-    "text": "BSc (Honours) | 1996, Arts and Sciences, Queen’s University at Kingston\nMSc, 1999 | Biology, University of Windsor\nPhD, 2006 | Biology, University of Windsor"
+    "text": "Interested in Joining the lab?\n\n\n\nContact me:\nDenis Roy  Natural Resource Sciences  Faculty of Agriculture and Environmental Sciences  McGill University  21111 rue Lakeshore road  Ste Anne-de-Bellevue, Québec, Canada, H9X 3V9  denis.roy5[at]mcgill.ca"
   },
   {
     "objectID": "index.html",
@@ -26,5 +19,47 @@
     "title": "FPCG Lab",
     "section": "",
     "text": "Much the world’s biodiversity is relatively young, formed largely by recently developed ecological settings (Seehausen et al. 2008). Consequently, the balance between reproductive isolation and gene flow, primarily regulated by local environmental conditions, is subject to change with serious implications for species integrity. This is especially concerning considering increases in human-induced ecological changes at local, regional, and global scales.\nBeyond precipitating extirpation/extinction, human-induced habitat changes can have more subtle effects on biodiversity. If ecological conditions keeping species and population together become more heterogenous, ecological diversification and speciation can occur (sometimes very quickly). Conversely, and of much greater concern, when ecological conditions keeping species apart are relaxed, reverse speciation can ensue.\nIn this research group, we focus on better understanding and characterising the ecological factors (natural or human-induced) leading to speciation, or potentially its reversal. To this end, we apply, and explore, various techniques (genomics/morphometrics/ecological tracers) to clarify the status and evolutionary potential of various species, in efforts to better understand their life histories and inform their management and conservation."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "WILD 302 • Fish Ecology | 2019-2026  This course aims to see what its like to be a fish ecologist, including practical field days where we collect fish. We then use the collected samples throughout the rest of the course in different analyses.\nWILD 401 • Fisheries and Wildlife Management | 2019-2026  Introduces students to different aspects of fisheries and wildlife management with many practical components including a 3-4 day field expedition.\nENVB 506 • Quantitative Methods in Ecology | 2020-2026  Higher-level statistics course aiming to help student analyse their data using more advanced (but still relatively common) techniques. Also covers how to present the results of statisitcal analyses appropriate for publications. Focuses on the use of the R environment for statistical computing."
+  },
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "WILD 302 • Fish Ecology | 2019-2026  This course aims to see what its like to be a fish ecologist, including practical field days where we collect fish. We then use the collected samples throughout the rest of the course in different analyses.\nWILD 401 • Fisheries and Wildlife Management | 2019-2026  Introduces students to different aspects of fisheries and wildlife management with many practical components including a 3-4 day field expedition.\nENVB 506 • Quantitative Methods in Ecology | 2020-2026  Higher-level statistics course aiming to help student analyse their data using more advanced (but still relatively common) techniques. Also covers how to present the results of statisitcal analyses appropriate for publications. Focuses on the use of the R environment for statistical computing."
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses:",
+    "text": "Past Courses:\n\nENVB 410 • Ecosystem Ecology | 2020  I taught this course during COVID. It looks at the structure and function of ecosystems, and the biotic and abiotic interactions that make them up.\nNRE 2345 • Introduction to Fisheries and Wildlife Conservation | 2016-2017  Taught while I was at UConn."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Denis Roy",
+    "section": "",
+    "text": "• BSc (Honours) | 1996, Arts and Sciences, Queen’s University at Kingston\n• MSc, 1999 | Biology, University of Windsor\n• PhD, 2006 | Biology, University of Windsor"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Denis Roy",
+    "section": "",
+    "text": "• BSc (Honours) | 1996, Arts and Sciences, Queen’s University at Kingston\n• MSc, 1999 | Biology, University of Windsor\n• PhD, 2006 | Biology, University of Windsor"
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "Denis Roy",
+    "section": "Biography:",
+    "text": "Biography:\nI got a BSc from Queen’s University at Kingston, while benefiting from internships at the Atmospheric Environment Service (AES) Branch of Environment Canada. I obtained an MSc in Biological Sciences from the University of Windsor, while working on a collaborative project with AES and the Great Lakes Environmental Research Laboratory (GLERL) in Ann Arbor, MI. This work coupled hydroacoustics with bioenergetic modeling to develop and apply a temporally-explicit model outlining fish growth rate potentials (GRPs). I went on to do a PhD, also in Windsor, which combined genetic techniques with environmental tracers and morphological features to show the ecologically-driven adaptive radiation of rare fishes from insular lakes in the highlands of Sulewesi, Indonesia.\nI was a post-doctoral researcher at the Swiss Federal Institute for Aquatic Science and Technology (EAWAG), where I developed projects characterising the biodiversity of alpine and peri-alpine aquatic ecosystems using genetic and morphological approaches. I was also an NSERC Post-Doctoral Fellow at Dalhousie University, where I used genetic methods to clarify the population structure of exploited marine fishes, and relate this information to fisheries management and conservation authorities.\nI was also an Assistant Research Professor in the Department of Natural Resources and the Environment at the University of Connecticut before moving to McGill. My research focuses on developing and applying genomic resources and bioinformatics tools to better understand the impacts of rapid environmental changes on fish and other species’ ecology and evolution."
   }
 ]

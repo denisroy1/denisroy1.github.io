@@ -1,0 +1,26 @@
+---
+title: "Opportunities"
+format: html
+about:
+  template: marquee
+  image: images/stbsamp.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/denisroy1
+---
+
+### Interested in Joining the lab?
+
+***
+
+### Contact me:
+Denis Roy <br>
+Natural Resource Sciences <br>
+Faculty of Agriculture and Environmental Sciences <br>
+McGill University <br>
+21111 rue Lakeshore road <br>
+Ste Anne-de-Bellevue, Québec, Canada, H9X 3V9 <br>
+denis.roy5[at]mcgill.ca <br>
+
+***

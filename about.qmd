@@ -11,8 +11,16 @@ about:
 
 ## Education:
 
-BSc (Honours) | 1996, *Arts and Sciences*, Queen's University at Kingston
+• BSc (Honours) | 1996, *Arts and Sciences*, Queen's University at Kingston
 
-MSc, 1999 | *Biology*, University of Windsor
+• MSc, 1999 | *Biology*, University of Windsor
 
-PhD, 2006 | *Biology*, University of Windsor
+• PhD, 2006 | *Biology*, University of Windsor
+
+## Biography:
+
+I got a BSc from Queen’s University at Kingston, while benefiting from internships at the Atmospheric Environment Service (AES) Branch of Environment Canada. I obtained an MSc in Biological Sciences from the University of Windsor, while working on a collaborative project with AES and the Great Lakes Environmental Research Laboratory (GLERL) in Ann Arbor, MI. This work coupled hydroacoustics with bioenergetic modeling to develop and apply a temporally-explicit model outlining fish growth rate potentials (GRPs). I went on to do a PhD, also in Windsor, which combined genetic techniques with environmental tracers and morphological features to show the ecologically-driven adaptive radiation of rare fishes from insular lakes in the highlands of Sulewesi, Indonesia. 
+
+I was a post-doctoral researcher at the Swiss Federal Institute for Aquatic Science and Technology (EAWAG), where I developed projects characterising the biodiversity of alpine and peri-alpine aquatic ecosystems using genetic and morphological approaches. I was also an NSERC Post-Doctoral Fellow at Dalhousie University, where I used genetic methods to clarify the population structure of exploited marine fishes, and relate this information to fisheries management and conservation authorities. 
+
+I was also an Assistant Research Professor in the Department of Natural Resources and the Environment at the University of Connecticut before moving to McGill. My research focuses on developing and applying genomic resources and bioinformatics tools to better understand the impacts of rapid environmental changes on fish and other species' ecology and evolution.
