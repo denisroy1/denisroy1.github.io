@@ -5,19 +5,14 @@ format: html
 
 ## Current Courses:
 
-- **WILD 302** • Fish Ecology | 2019-2026 <br>
-This course aims to see what its like to be a fish ecologist, including practical field days where we collect fish. We then use the collected samples throughout the rest of the course in different analyses.
+- [**WILD 302** • Fish Ecology](https://coursecatalogue.mcgill.ca/courses/wild-302/) \| 2019-2026 <br> This course aims to see what its like to be a fish ecologist, including practical field days where we collect fish. We then use the collected samples throughout the rest of the course in different analyses.
 
-- **WILD 401** • Fisheries and Wildlife Management | 2019-2026 <br>
-Introduces students to different aspects of fisheries and wildlife management with many practical components including a 3-4 day field expedition.
+- [**WILD 401** • Fisheries and Wildlife Management](https://coursecatalogue.mcgill.ca/courses/wild-401/) \| 2019-2026 <br> Introduces students to different aspects of fisheries and wildlife management with many practical components including a 3-4 day field expedition.
 
-- **ENVB 506** • Quantitative Methods in Ecology | 2020-2026 <br>
-Higher-level statistics course aiming to help student analyse their data using more advanced (but still relatively common) techniques. Also covers how to present the results of statisitcal analyses appropriate for publications. Focuses on the use of the R environment for statistical computing. 
+- [**ENVB 506** • Quantitative Methods in Ecology](https://coursecatalogue.mcgill.ca/courses/envb-506/) \| 2020-2026 <br> Higher-level statistics course aiming to help student analyse their data using more advanced (but still relatively common) techniques. Also covers how to present the results of statisitcal analyses appropriate for publications. Focuses on the use of the R environment for statistical computing.
 
 ## Past Courses:
 
-- **ENVB 410** • Ecosystem Ecology | 2020 <br>
-I taught this course during COVID. It looks at the structure and function of ecosystems, and the biotic and abiotic interactions that make them up.
+- **ENVB 410** • Ecosystem Ecology \| 2020 <br> I taught this course during COVID. It looks at the structure and function of ecosystems, and the biotic and abiotic interactions that make them up.
 
-- **NRE 2345** • Introduction to Fisheries and Wildlife Conservation | 2016-2017 <br>
-Taught while I was at UConn. 
+- **NRE 2345** • Introduction to Fisheries and Wildlife Conservation \| 2016-2017 <br> Taught while I was at UConn.
