@@ -17,6 +17,8 @@ website:
       - href: people.qmd
         text: " "
         icon: people-fill
+      - href: res.qmd
+        text: "Research"
       - href: courses.qmd
         text: Courses
       - href: opportunities.qmd

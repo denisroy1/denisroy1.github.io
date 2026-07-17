@@ -11,7 +11,7 @@ about:
 
 ## Mission:
 
-Much the world’s biodiversity is relatively young, formed largely by recently developed ecological settings (Seehausen et al. 2008). Consequently, the balance between reproductive isolation and gene flow, primarily regulated by local environmental conditions, is subject to change with serious implications for species integrity. This is especially concerning considering increases in human-induced ecological changes at local, regional, and global scales.
+Much the world’s biodiversity is relatively young, formed largely by recently developed ecological settings (*Seehausen et al. 2008*). Consequently, the balance between reproductive isolation and gene flow, primarily regulated by local environmental conditions, is subject to change with serious implications for species integrity. This is especially concerning considering increases in human-induced ecological changes at local, regional, and global scales.
 
 Beyond precipitating extirpation/extinction, human-induced habitat changes can have more subtle effects on biodiversity. If ecological conditions keeping species and population together become more heterogenous, ecological diversification and speciation can occur (sometimes very quickly). Conversely, and of much greater concern, when ecological conditions keeping species apart are relaxed, reverse speciation can ensue.
 
