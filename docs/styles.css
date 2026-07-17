@@ -2,3 +2,19 @@
 p {
   text-align: justify;
 }
+
+/* Profile pictures on People page */
+
+.profile-img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid white;
+  box-shadow: 0 3px 10px rgba(0,0,0,.2);
+  transition: all .3s ease;
+}
+
+.profile-img:hover {
+  transform: scale(1.05);
+}

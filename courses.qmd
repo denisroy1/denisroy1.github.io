@@ -1,6 +1,5 @@
 ---
 title: "Courses"
-format: html
 ---
 
 ## Current Courses:

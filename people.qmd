@@ -1,0 +1,99 @@
+---
+title: "People"
+---
+
+
+## Current Students:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.person-card}
+
+[![](images/Marie Launay.jpg){.profile-img}](people/marie.qmd)
+
+### Marie Launay
+
+*PhD Student*
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.person-card}
+
+[![](images/Amanda Round.jpg){.profile-img}](people/amanda.qmd)
+
+### Amanda Round
+
+*MSc Student*
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.person-card}
+
+[![](images/Natasha.png){.profile-img}](people/natasha.qmd)
+
+### Natasha Berghuis
+
+*MSc Student*
+
+:::
+
+
+:::
+
+<br><br><br>
+
+## Alumni:
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.person-card}
+
+[![](images/Anthony Gagliano.png){.profile-img}](people/Anthony.qmd)
+
+### Anthony Gagliano
+
+*MSc Student*
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.person-card}
+
+[![](images/JoeSS.gif){.profile-img}](people/Anthony.qmd)
+
+### Joe Rodrigo Sánchez Schacht
+
+*MSc Student*
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.person-card}
+
+[![](images/JM.jpg){.profile-img}](people/Juliano.qmd)
+
+### Juliano Malizia
+
+*BSc (Hons) Student*
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.person-card}
+
+[![](images/JDiam.jpg){.profile-img}](people/Jonathan.qmd)
+
+### Jonathan Diamond
+
+*BSc Student*
+
+:::

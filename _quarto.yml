@@ -5,7 +5,8 @@ project:
 website:
   title: "FPCG Lab"
   navbar:
-    background: primary
+    background: "#355C7D"
+    foreground: white
     search: true
     left:
       - href: index.qmd
@@ -13,6 +14,9 @@ website:
         icon: house-door-fill
       - href: about.qmd
         text: PI
+      - href: people.qmd
+        text: " "
+        icon: people-fill
       - href: courses.qmd
         text: Courses
       - href: opportunities.qmd
